@@ -1,0 +1,14 @@
+{
+  "name": "blog-de-estudos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "study",
+    "javascript"
+  ],
+  "author": "Rafael Molina Martinez",
+  "license": "ISC",
+  "type": "module"
+}
