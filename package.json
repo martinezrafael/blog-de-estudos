@@ -10,5 +10,8 @@
   ],
   "author": "Rafael Molina Martinez",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
